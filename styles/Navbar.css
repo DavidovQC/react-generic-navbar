@@ -1,0 +1,21 @@
+li {
+    color: lightgray;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    border: solid red 1px;
+}
+
+.nav-div {
+    border: solid black 1px;
+}
+
+li:hover {
+    cursor: pointer;
+    color: red;
+}
